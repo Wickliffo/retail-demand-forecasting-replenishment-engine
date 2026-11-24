@@ -6,7 +6,7 @@ A Python-based time-series forecasting and decision-engineering project investig
 
 The project combines statistical forecasting, chronological backtesting, exogenous-variable analysis, forecast error evaluation and, in subsequent stages, inventory policy modelling and constrained optimization.
 
-> **Project status:** Stages 1–3 completed. Forecast uncertainty, inventory policy design and replenishment optimization are next.
+> **Project status:** Stages 1–5 completed.Inventory policy design and replenishment optimization are next.
 
 ---
 
