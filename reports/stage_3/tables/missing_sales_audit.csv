@@ -1,0 +1,5 @@
+date,sales,is_missing_sales,weekday,month,day
+2013-12-25,,1,Wednesday,12,25
+2014-12-25,,1,Thursday,12,25
+2015-12-25,,1,Friday,12,25
+2016-12-25,,1,Sunday,12,25

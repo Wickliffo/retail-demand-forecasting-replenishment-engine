@@ -1,0 +1,8 @@
+weekday,actual_mean,forecast_mean,mean_error,mean_absolute_error
+Friday,2348.75,3182.0,-833.25,833.25
+Monday,2651.2,2849.0,-197.8,244.6
+Saturday,2171.5,2297.0,-125.5,339.5
+Sunday,1108.5,1028.0,80.5,120.0
+Thursday,2456.5,2571.0,-114.5,135.0
+Tuesday,2843.4,2712.0,131.4,335.8
+Wednesday,2977.25,3185.0,-207.75,238.75

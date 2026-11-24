@@ -1,0 +1,1 @@
+model,fold,train_end,validation_start,validation_end,training_observations,validation_observations,feature_count,mae,rmse,bias_forecast_minus_actual,converged,fit_warning_count,prediction_warning_count,runtime_seconds,status

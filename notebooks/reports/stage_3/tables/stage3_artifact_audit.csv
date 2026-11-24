@@ -1,0 +1,15 @@
+artifact,exists,size_bytes,status
+reports/stage_3/tables/stage3_model_ranking.csv,False,0,FAIL
+reports/stage_3/tables/stage3_fold_metrics.csv,False,0,FAIL
+reports/stage_3/tables/stage3_oof_forecasts.csv,False,0,FAIL
+reports/stage_3/tables/stage3_fit_diagnostics.csv,False,0,FAIL
+reports/stage_3/tables/stage3_failed_fits.csv,False,0,FAIL
+reports/stage_3/tables/stage3_model_ranking_with_improvement.csv,True,1422,PASS
+reports/stage_3/tables/stage3_paired_fold_comparison.csv,True,9957,PASS
+reports/stage_3/tables/stage3_robustness_summary.csv,True,946,PASS
+reports/stage_3/tables/stage3_figure_inventory.csv,False,0,FAIL
+reports/stage_3/figures/stage3_model_mae_ranking.png,True,127785,PASS
+reports/stage_3/figures/stage3_fold_mae.png,True,391686,PASS
+reports/stage_3/figures/stage3_paired_mae_improvement.png,False,0,FAIL
+reports/stage_3/figures/stage3_actual_vs_forecasts.png,False,0,FAIL
+reports/stage_3/stage3_exogenous_feature_analysis.md,True,9398,PASS

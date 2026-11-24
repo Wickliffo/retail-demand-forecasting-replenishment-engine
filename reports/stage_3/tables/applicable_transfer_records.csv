@@ -1,0 +1,19 @@
+date,type,locale,locale_name,description,transferred
+2012-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,True
+2012-10-12,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,False
+2013-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,True
+2013-10-11,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,False
+2014-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,True
+2014-10-10,Transfer,National,Ecuador,Traslado Independencia de Guayaquil,False
+2016-05-24,Holiday,National,Ecuador,Batalla de Pichincha,True
+2016-05-27,Transfer,National,Ecuador,Traslado Batalla de Pichincha,False
+2016-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,True
+2016-08-12,Transfer,National,Ecuador,Traslado Primer Grito de Independencia,False
+2017-01-01,Holiday,National,Ecuador,Primer dia del ano,True
+2017-01-02,Transfer,National,Ecuador,Traslado Primer dia del ano,False
+2017-05-24,Holiday,National,Ecuador,Batalla de Pichincha,True
+2017-05-26,Transfer,National,Ecuador,Traslado Batalla de Pichincha,False
+2017-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,True
+2017-08-11,Transfer,National,Ecuador,Traslado Primer Grito de Independencia,False
+2017-12-06,Holiday,Local,Quito,Fundacion de Quito,True
+2017-12-08,Transfer,Local,Quito,Traslado Fundacion de Quito,False

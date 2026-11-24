@@ -1,0 +1,9 @@
+feature,total,dates_with_feature
+event_record_count,159.0,155
+transferred_record_count,7.0,7
+event_type_holiday,55.0,55
+event_type_event,56.0,55
+event_type_additional,33.0,33
+event_type_transfer,7.0,7
+event_type_bridge,3.0,3
+event_type_work_day,5.0,5
