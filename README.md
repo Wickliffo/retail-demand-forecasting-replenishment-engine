@@ -453,8 +453,8 @@ These limitations define the next engineering tasks rather than being hidden beh
 | 1 | Data engineering and demand characterization | Completed |
 | 2 | ARIMA/SARIMA forecasting and validation | Completed |
 | 3 | SARIMAX exogenous-feature investigation | Completed |
-| 4 | Forecast uncertainty and inventory policies | Pcompleted |
-| 5 | Constrained replenishment optimization | Planned |
+| 4 | Forecast uncertainty and inventory policies | completed |
+| 5 | Constrained replenishment optimization | Almost |
 | 6 | Inventory simulation and backtesting | Planned |
 | 7 | Reusable engine and automated testing | Planned |
 
